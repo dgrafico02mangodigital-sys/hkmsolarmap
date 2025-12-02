@@ -1,0 +1,5 @@
+{
+  "name": "Solar Portfolio Map",
+  "description": "Interactive map visualizing solar energy assets across the United States.",
+  "requestFramePermissions": []
+}
